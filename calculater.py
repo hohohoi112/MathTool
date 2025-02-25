@@ -11,3 +11,7 @@ def multiply(a, b)
 
 def say_hellow():
 	print("hellow")
+	
+def divide(a, b):
+    return a/b
+
