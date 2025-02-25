@@ -12,5 +12,3 @@ def multiply(a, b)
 def divide_premium_new(a, b):
     return a/b
 
-def say_hellow():
-	print("hellow") 
