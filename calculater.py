@@ -8,10 +8,9 @@ def subtract(a, b):
 
 def multiply(a, b)
 	a*b
-
-def say_hellow():
-	print("hellow")
 	
 def divide(a, b):
-    return a/b
 
+def divide_freee(a, b):
+	return a/b
+   
