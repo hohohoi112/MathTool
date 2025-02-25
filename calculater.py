@@ -8,3 +8,6 @@ def subtract(a, b):
 
 def multiply(a, b)
 	a*b
+
+def say_hellow():
+	print("hellow")
